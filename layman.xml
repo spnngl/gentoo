@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<layman>
+  <overlay type="git" src="https://github.com/atbd/gentoo.git" contact="atbd" name="atbd">
+    <link>https://github.com/atbd/gentoo</link>
+    <description>atbd overlay</description>
+  </overlay>
+</layman>
