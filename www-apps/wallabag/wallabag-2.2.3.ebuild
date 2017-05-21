@@ -15,7 +15,7 @@ IUSE="+mysql postgres sqlite"
 RDEPEND="
 	>=virtual/httpd-php-5.4
 	net-libs/nodejs[npm]
-	>=dev-lang/php-5.6[session,ctype,dom,hash,simplexml,json,gd,mbstring,xml,tidy,iconv,curl,gettext,tokenizer,bcmath]
+	>=dev-lang/php-5.6[pdo,session,ctype,xml,hash,simplexml,json,gd,unicode,tidy,iconv,curl,nls,tokenizer,bcmath]
 	mysql? ( dev-lang/php[mysql] )
 	postgres? ( dev-lang/php[postgres] )
 	sqlite? ( dev-lang/php[sqlite] )
