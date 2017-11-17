@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <layman>
-  <overlay type="git" src="https://github.com/atbd/gentoo.git" contact="atbd" name="atbd">
-    <link>https://github.com/atbd/gentoo</link>
-    <description>atbd overlay</description>
+  <overlay type="git" src="https://github.com/spnngl/gentoo.git" contact="spnngl" name="spnngl">
+    <link>https://github.com/spnngl/gentoo</link>
+    <description>spnngl overlay</description>
   </overlay>
 </layman>
